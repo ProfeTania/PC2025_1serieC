@@ -18,3 +18,7 @@ p{
     font-size: 20px;
     
 }
+section {
+    background-color: lightskyblue;
+    padding: 80px;
+}
