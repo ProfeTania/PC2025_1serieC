@@ -1,13 +1,13 @@
 body {
     background-color: black;
-    color:beige;
+    color:red;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 
 }
 header{
     font-size: 50px;
-    border: double 5px pink;
+    border: double 5px background-color:pink;
     padding: 30px;
 
 }
