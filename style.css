@@ -2,4 +2,20 @@ body {
     background-color: black;
     color:beige;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+}
+header{
+    font-size: 50px;
+    border: double 5px pink;
+    padding: 30px;
+
+}
+h1{
+    font-size: 30px;
+    ;
+}
+p{
+    font-size: 20px;
+    
 }
